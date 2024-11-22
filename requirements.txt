@@ -1,0 +1,4 @@
+Flask
+Werkzeug
+pyjwt
+python-dotenv
